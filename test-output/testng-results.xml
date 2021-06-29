@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-09T15:02:11 EDT" name="Default suite" finished-at="2021-06-09T15:02:30 EDT" duration-ms="19159">
+    <groups>
+    </groups>
+    <test started-at="2021-06-09T15:02:11 EDT" name="Default test" finished-at="2021-06-09T15:02:30 EDT" duration-ms="19159">
+      <class name="test.MckTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:test.MckTest@23529fee]" started-at="2021-06-09T15:02:11 EDT" name="start" finished-at="2021-06-09T15:02:17 EDT" duration-ms="6026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="t()[pri:0, instance:test.MckTest@23529fee]" started-at="2021-06-09T15:02:17 EDT" name="t" finished-at="2021-06-09T15:02:30 EDT" duration-ms="13085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t -->
+      </class> <!-- test.MckTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
